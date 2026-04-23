@@ -11,7 +11,7 @@ I build end-to-end ML systems, from training and experimentation to production d
 - MSc Data Science at Universität Trier, 85 credits completed, grade 1.5
 - Student Assistant for Numerical Optimization under Prof. Schulz, summer 2026
 - Working on recommender systems, graph neural networks, and LLM evaluation
-- Learning German (currently B1)
+- Learning German (currently B1.1)
 
 ## Featured Projects
 
@@ -21,11 +21,30 @@ I build end-to-end ML systems, from training and experimentation to production d
 
 Two-Tower MLP + FAISS retrieval on the Amazon Electronics Reviews 2023 dataset. NDCG@10 = 0.334 (+9.5% over the collaborative filtering baseline), sub-100ms inference latency on CPU, deployed on Azure Container Apps.
 
+<a href="https://github.com/rahulk98/Resume-RAG-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulk98&repo=Resume-RAG-System&theme=tokyonight" alt="Resume RAG System" />
+</a>
+
+LlamaIndex + Google Gemini 2.5 Flash RAG over my resume and personal documents. FastAPI backend, containerized with Docker, deployed on Google Cloud Run. Live at rahul-krishnan.is-a.dev.
+
+<a href="https://github.com/rahulk98/Research-Case-Studies_Risk-Averse-Optimization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulk98&repo=Research-Case-Studies_Risk-Averse-Optimization&theme=tokyonight" alt="Risk-Averse Optimization Case Studies" />
+</a>
+
+CVaR-based risk-averse optimization across three case studies: nonlinear optimization (CasADi + IPOPT), robust SVM under heavy-tailed noise (CVXPY + OSQP), and wine-fermentation MPC. The CVaR MPC controller held constraint violations at 0% where the nominal baseline violated on every trajectory under severe temperature mismatch.
+
 <a href="https://github.com/rahulk98/Sentiment-Analysis-with-BERT-Model">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulk98&repo=Sentiment-Analysis-with-BERT-Model&theme=tokyonight" alt="Sentiment Analysis with BERT" />
 </a>
 
 Fine-tuned BERT on 10k+ YouTube comments, F1 = 0.81 on an imbalanced dataset. Served via Flask + Docker, with a GitHub Actions CI/CD pipeline building and publishing Docker images to Docker Hub.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulk98&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rahul's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk98&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ## Tech Stack
 
@@ -62,13 +81,6 @@ Fine-tuned BERT on 10k+ YouTube comments, F1 = 0.81 on an imbalanced dataset. Se
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulk98&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rahul's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk98&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ## Connect
 
