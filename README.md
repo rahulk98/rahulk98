@@ -39,7 +39,7 @@ CVaR-based risk-averse optimization across three case studies: nonlinear optimiz
   <img src="https://github-readme-stats-henna-seven-72.vercel.app/api/pin/?username=rahulk98&repo=Sentiment-Analysis-with-BERT-Model&theme=tokyonight" alt="Sentiment Analysis with BERT" />
 </a>
 
-Fine-tuned BERT on 10k+ YouTube comments, F1 = 0.81 on an imbalanced dataset. Served via Flask + Docker, with a GitHub Actions CI/CD pipeline building and publishing Docker images to Docker Hub.
+Fine-tuned BERT on 10k+ YouTube comments, F1 = 0.82 on an imbalanced dataset. Served via Flask + Docker, with a GitHub Actions CI/CD pipeline building and publishing Docker images to Docker Hub.
 
 ## GitHub Stats
 
